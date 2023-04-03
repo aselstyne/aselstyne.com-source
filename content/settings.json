@@ -1,38 +1,37 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "siteUrl": "https://aselstyne.com",
+    "title": "Alex Aselstyne",
+    "titleTemplate": "%s · Portfolio",
+    "description": "Alex Aselstyne personal site and portfolio",
+    "author": "Alex Aselstyne",
+    "avatar": "../content/images/AlexSquare.jpg",
+    "bio": "A student in the Queen's University Computer Science program, with the chosen stream of Data Analytics and Machine Learning. I'm passionate about everything tech, but especially data analysis, ML, and development.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
+      "github": "https://github.com/aselstyne",
       "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "linkedin": "https://www.linkedin.com/in/aselstyne/",
+      "mail": "mailto:alex.aselstyne@queensu.ca",
+      "instagram": "https://www.instagram.com/a_aselstyne/",
+      "discord": "https://discordapp.com/users/180484863311216640"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Alex Aselstyne" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/Alex_Aselstyne_Resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Privacy", "url": "/privacy" }
       ]
     },
     "featureToggles": {

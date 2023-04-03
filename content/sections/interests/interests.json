@@ -1,58 +1,86 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Python",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Java",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/java.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "MATLAB",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/matlab.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Git",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/git.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "SQL Queries/DDL/ER",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/database.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "C",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/c.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Business/Entrepreneurship",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/pen.png",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Communication",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/people.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Customer Service",
+      "image": {
+        "src": "../../images/service.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "IT Support",
+      "image": {
+        "src": "../../images/computer.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Microsoft 365",
+      "image": {
+        "src": "../../images/office.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Music Writing/Production",
+      "image": {
+        "src": "../../images/dm.png",
         "alt": ""
       }
     }

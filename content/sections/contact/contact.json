@@ -1,13 +1,13 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "name": "Alex Aselstyne",
+  "email": "alex.aselstyne@queensu.ca",
+  "description": "Connect with me with any of the below methods.",
   "image": {
     "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "alt": "Site logo"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Discord", "Instagram"],
     "showIcons": true
   }
 }

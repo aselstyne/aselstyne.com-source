@@ -1,14 +1,14 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/body_shot.jpg"
+imageAlt: "Full-body photo"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Hello there! I'm Alex, and I'm in my second year of Computer Science at Queen's University, with a degree focus in Data Analytics and Machine Learning. Following my first year, I decided to also pursue a Smith School of Business - Certificate in Business, as I knew I wanted to do more than just develop software.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I have a number of passions, from general computer topics, to software development, music (of all forms!), cycling, and badminton, but have most recently developed a love for data. I crave the feeling of satisfaction I get from turning a huge dataset into a simple visualization and applicable insights.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+I'm always looking for new challenges, and enjoy few things more than being stuck behind a good roadblock. They create opportunities for creativity and innovation, which is where great ideas come from.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+For more information about my skill set, interests, and projects, continue reading down the page or check out my resume in the top right corner! I'm glad to have you here :)
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Photo taken at <u>Sugar beach</u>, Toronto.

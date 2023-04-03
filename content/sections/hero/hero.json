@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "Hi!",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/AlexSquare.jpg",
     "alt": "My Photo"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
+    "src": "../../images/mftm.png",
+    "alt": "Loud Speaker Icon"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Alex,",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "with a passion for ",
+    "highlight": "data analytics and development",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "2nd-year student in the Queen's University Computer Science and Certificate in Business programs, with a degree focus in Data Analytics and Machine Learning.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail", "Instagram"],
     "showIcons": false
   }
 }

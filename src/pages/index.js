@@ -1,7 +1,7 @@
 import React from "react";
 import {
   AboutSection,
-  ArticlesSection,
+  // ArticlesSection,
   ContactSection,
   HeroSection,
   InterestsSection,
@@ -10,17 +10,18 @@ import {
   Seo,
 } from "gatsby-theme-portfolio-minimal";
 
+// Add this after HeroSection for medium articles: 
+// <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
 export default function IndexPage() {
   return (
     <>
       <Seo title="Alex Aselstyne Site and Portfolio" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
-        <AboutSection sectionId="about" heading="About Portfolio Minimal" />
-        <InterestsSection sectionId="details" heading="Details" />
-        <ProjectsSection sectionId="features" heading="Built-in Features" />
-        <ContactSection sectionId="github" heading="Issues?" />
+        <AboutSection sectionId="about" heading="About" />
+        <InterestsSection sectionId="details" heading="Skills and Interests" />
+        <ProjectsSection sectionId="projects" heading="Projects and Extracurriculars" />
+        <ContactSection sectionId="contact" heading="Contact" />
       </Page>
     </>
   );

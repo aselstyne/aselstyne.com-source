@@ -2,47 +2,40 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "🎹 EXTRACURRICULAR",
+      "title": "Hackathons + Capture the Flags (CTFs)",
+      "description": "A team of classmates and I have participated in 5 CTF events in the months of February and March alone. We placed 5th in our first event, QCTF, and most recently finished in the top 10% of undergrads in the global picoCTF event. I specialize in reverse engineering and mathematical problems.",
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
-      ]
+        "src": "../../images/qctf.png",
+        "alt": "Queen's \"QCTF\" Logo"
+      }
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "🖥️ PROJECT",
+      "title": "Wide Breath of Class Experience",
+      "description": "Through my educational experience, I've developed comfort with a number of different programming languages and techniques. This includes OOP, working with data, scripting, proficiency in Java, Python, C, MATLAB, and SQL (Queries, data definiton, and ER diagrams), as well as some experience with Javascript, HTML and CSS. See some of my class work in my Github repos.",
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
+        "src": "../../images/q-computing.png",
+        "alt": "Link to Queen's Classwork on GitHub",
+        "linkTo": "https://github.com/stars/aselstyne/lists/queen-s-courses"
+      }
+    },
+    {
+      "visible": true,
+      "category": "🎹 EXTRACURRICULAR",
+      "title": "Passion for Music",
+      "description": "I have studied music for my entire life, and it's now my primary hobby outside of IT. I play Piano and Trumpet, and have sung in one choir or another, outside of school, for 11 years. I'm also a big music lover, and am surely Depeche Mode's biggest fan :). Click the image to check out my Youtube Channel with various musical covers and such!",
+      "image": {
+        "src": "../../images/songsoffaithanddevotion_1920_1.jpg",
+        "alt": "Queen's \"QCTF\" Logo",
+        "linkTo": "https://www.youtube.com/@alexaselstyne263/videos"
+      }
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "See Full Github Portfolio",
+    "url": "https://github.com/aselstyne?tab=repositories"
   }
 }
