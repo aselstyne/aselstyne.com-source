@@ -14,9 +14,9 @@
     "highlight": "data analytics and development",
     "suffix": "."
   },
-  "description": "2nd-year student in the Queen's University Computer Science and Certificate in Business programs, with a degree focus in Data Analytics and Machine Learning.",
+  "description": "3rd-year student in the Queen's University Computer Science and Certificate in Business programs, with a degree focus in Data Analytics and Machine Learning.",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail", "Instagram"],
-    "showIcons": false
+    "showIcons": true
   }
 }

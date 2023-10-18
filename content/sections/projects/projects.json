@@ -3,8 +3,8 @@
     {
       "visible": true,
       "category": "🎹 EXTRACURRICULAR",
-      "title": "Hackathons + Capture the Flags (CTFs)",
-      "description": "A team of classmates and I have participated in 5 CTF events in the months of February and March alone. We placed 5th in our first event, QCTF, and most recently finished in the top 10% of undergrads in the global picoCTF event. I specialize in reverse engineering and mathematical problems.",
+      "title": "Clubs at Queens",
+      "description": "Here at Queen's, I'm a member of several clubs. I'm a general member on the Queen's Data Analytics Association, where we tackle data-driven problems in small team settings. I also hold a studio staff position at Qwave, the music production club, where I'm an expert with audio gear and software. Finally, I have a team of classmates who I participate in Capture The Flag (CTF) hackathon challenges with.",
       "image": {
         "src": "../../images/qctf.png",
         "alt": "Queen's \"QCTF\" Logo"
@@ -14,7 +14,7 @@
       "visible": true,
       "category": "🖥️ PROJECT",
       "title": "Wide Breath of Class Experience",
-      "description": "Through my educational experience, I've developed comfort with a number of different programming languages and techniques. This includes OOP, working with data, scripting, proficiency in Java, Python, C, MATLAB, and SQL (Queries, data definiton, and ER diagrams), as well as some experience with Javascript, HTML and CSS. See some of my class work in my Github repos.",
+      "description": "Through my educational experience, I've developed comfort with a number of different programming languages and techniques. This includes OOP, working with data, scripting, and proficiency in Java, Python, MATLAB, and SQL, as well as some additional experience with Javascript, C, HTML and CSS. See some of my class work on my Github, as well as personal projects.",
       "image": {
         "src": "../../images/q-computing.png",
         "alt": "Link to Queen's Classwork on GitHub",
@@ -25,10 +25,10 @@
       "visible": true,
       "category": "🎹 EXTRACURRICULAR",
       "title": "Passion for Music",
-      "description": "I have studied music for my entire life, and it's now my primary hobby outside of IT. I play Piano and Trumpet, and have sung in one choir or another, outside of school, for 11 years. I'm also a big music lover, and am surely Depeche Mode's biggest fan :). Click the image to check out my Youtube Channel with various musical covers and such!",
+      "description": "I have studied music for my entire life, and it's now my primary hobby outside of IT. Though I grew up playing piano and singing in choirs, today I make music focused in electronic genres. I'm also a big music lover, and am surely Depeche Mode's biggest fan :). Click the image to check out my Youtube Channel with various musical covers and such!",
       "image": {
         "src": "../../images/songsoffaithanddevotion_1920_1.jpg",
-        "alt": "Queen's \"QCTF\" Logo",
+        "alt": "Link to Youtube Channel",
         "linkTo": "https://www.youtube.com/@alexaselstyne263/videos"
       }
     }

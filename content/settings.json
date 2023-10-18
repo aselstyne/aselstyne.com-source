@@ -4,13 +4,12 @@
     "siteUrl": "https://aselstyne.com",
     "title": "Alex Aselstyne",
     "titleTemplate": "%s · Portfolio",
-    "description": "Alex Aselstyne personal site and portfolio",
+    "description": "Alex Aselstyne personal site and portfolio, showcasing work in development, machine learning, and electronic music.",
     "author": "Alex Aselstyne",
     "avatar": "../content/images/AlexSquare.jpg",
-    "bio": "A student in the Queen's University Computer Science program, with the chosen stream of Data Analytics and Machine Learning. I'm passionate about everything tech, but especially data analysis, ML, and development.",
+    "bio": "Student in the Queen's University Computer Science program in the Data Analytics and Machine Learning stream. I'm passionate about everything tech, but especially data analysis, ML, and development.",
     "social": {
       "github": "https://github.com/aselstyne",
-      "medium": "https://konstantinmuenster.medium.com",
       "linkedin": "https://www.linkedin.com/in/aselstyne/",
       "mail": "mailto:alex.aselstyne@queensu.ca",
       "instagram": "https://www.instagram.com/a_aselstyne/",
@@ -28,7 +27,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/Alex_Aselstyne_Resume.pdf"
+        "url": "/Alex_Aselstyne_Resume_Q4_2023.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" }
