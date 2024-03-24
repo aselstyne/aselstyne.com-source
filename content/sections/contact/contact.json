@@ -7,7 +7,7 @@
     "alt": "Site logo"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Discord", "Instagram"],
+    "from": ["LinkedIn", "Github", "Instagram"],
     "showIcons": true
   }
 }
