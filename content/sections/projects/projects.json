@@ -4,32 +4,32 @@
       "visible": true,
       "category": "🎹 EXTRACURRICULAR",
       "title": "Clubs at Queens",
-      "description": "Here at Queen's, I'm a member of several clubs. I'm a general member on the Queen's Data Analytics Association, where we tackle data-driven problems in small team settings. I also hold a studio staff position at Qwave, the music production club, where I'm an expert with audio gear and software. Finally, I have a team of classmates who I participate in Capture The Flag (CTF) hackathon challenges with.",
+      "description": "Here at Queen's, I'm a member of several clubs. I'm an executive member of Qwave, the music production club, as the recording studio director. In my position, I manage a team of 10 studio staff and oversee the aquisition and maintenance of studio equipment. Additionally, I'm a general member of the Data Analytics Association, the head of IT on the Pre-Dental Society, and do some audio production work for a variety of clubs.",
       "image": {
-        "src": "../../images/qctf.png",
+        "src": "../../images/Qwave.png",
         "alt": "Queen's \"QCTF\" Logo"
       }
     },
     {
       "visible": true,
       "category": "🖥️ PROJECT",
-      "title": "Wide Breath of Class Experience",
-      "description": "Through my educational experience, I've developed comfort with a number of different programming languages and techniques. This includes OOP, working with data, scripting, and proficiency in Java, Python, MATLAB, and SQL, as well as some additional experience with Javascript, C, HTML and CSS. See some of my class work on my Github, as well as personal projects.",
+      "title": "Relevant Coursework/Research",
+      "description": "Through my classwork and research, I've learned a variety of machine learning techniques and methods. As a research assistant at the Royal Military College, I've gained valuable experience in fine-tuning LLMs. My current work explores the application of LLMs to the chat disentanglement problem, a subfield of natural language processing. I've also taken many AI/ML relevant courses at Queen's.",
       "image": {
-        "src": "../../images/q-computing.png",
-        "alt": "Link to Queen's Classwork on GitHub",
-        "linkTo": "https://github.com/stars/aselstyne/lists/queen-s-courses"
+        "src": "../../images/disentangle.png",
+        "alt": "Chat disentanglement diagram",
+        "linkTo": "https://scholar.google.ca/citations?user=1fZifg0AAAAJ&hl=en"
       }
     },
     {
       "visible": true,
       "category": "🎹 EXTRACURRICULAR",
-      "title": "Passion for Music",
-      "description": "I have studied music for my entire life, and it's now my primary hobby outside of IT. Though I grew up playing piano and singing in choirs, today I make music focused in electronic genres. I'm also a big music lover, and am surely Depeche Mode's biggest fan :). Click the image to check out my Youtube Channel with various musical covers and such!",
+      "title": "Music - BOXTALK",
+      "description": "A recent accomplishment of mine is the release of the first album from my musical duo, BOXTALK. We spent the entire summer of 2024 writing, recording, and producing our debut album, \"Off Axis\". The album is a mix of electronic and acoustic sounds, with a focus on intrinsic themes. Listeners may draw parallels to Depeche Mode, Radiohead, and The Weeknd.",
       "image": {
-        "src": "../../images/songsoffaithanddevotion_1920_1.jpg",
-        "alt": "Link to Youtube Channel",
-        "linkTo": "https://www.youtube.com/@alexaselstyne/videos"
+        "src": "../../images/BOXTALK.jpg",
+        "alt": "Link to BOXTALK on YouTube",
+        "linkTo": "https://www.youtube.com/channel/UCusuoVDfsM15KP53ndV6btA"
       }
     }
   ],

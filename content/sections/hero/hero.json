@@ -11,10 +11,10 @@
   "title": "I'm Alex,",
   "subtitle": {
     "prefix": "with a passion for ",
-    "highlight": "data analytics and development",
+    "highlight": "machine learning and AI",
     "suffix": "."
   },
-  "description": "3rd-year student in the Queen's University Computer Science and Certificate in Business programs, with a degree focus in Data Analytics and Machine Learning.",
+  "description": "4th-year student in the Queen's University Computer Science and Certificate in Business programs, with a degree focus in Data Analytics and Machine Learning.",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail", "Instagram"],
     "showIcons": true
